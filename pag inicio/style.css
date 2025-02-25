@@ -1,6 +1,14 @@
-.faixa-inicial{
-    border:1px solid red;
+.faixa-logo{
+    display:flex;
+    justify-content: center;
+    /*position: fixed;*/
 }
-.logo{
-    border:1px solid blue;
+#logo1{
+    margin-top:5px;
+    width: 150px;
+    height: 150px;
+}
+#logo2{
+    width: 100px;
+    height: 100px;
 }
