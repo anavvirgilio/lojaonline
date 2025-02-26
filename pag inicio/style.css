@@ -3,6 +3,10 @@
     justify-content: center;
     /*position: fixed;*/
 }
+.faixa-inicial{
+    border:1px solid red;
+    height: 500px;
+}
 #logo1{
     margin-top:5px;
     width: 150px;
