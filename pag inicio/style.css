@@ -16,3 +16,27 @@
     width: 100px;
     height: 100px;
 }
+.container-menu{
+    display: flex;
+    justify-content: space-around;
+    border:1px solid green;
+    height: 250px;
+}
+.menu{
+    border:2px solid blue;
+    margin:auto;
+    height: 240px;
+    width: 400px;
+}
+h6{
+    text-align: center;
+    font-family: sans-serif;
+}
+.carrosel{
+    height: 325px;
+    border: 1px solid rgb(173, 173, 17);
+}
+.container-informativo{
+    border:1px solid blueviolet;
+    height: 500px;
+}
