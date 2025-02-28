@@ -40,3 +40,17 @@ h6{
     border:1px solid blueviolet;
     height: 500px;
 }
+.title-sobre{
+    text-align: center;
+    border: 1px solid red;
+}
+.text-sobre{
+    margin: auto;
+    width: 900px;
+    border: 1px solid green;
+    text-align: center;
+    font-family: sans-serif;
+}
+h4{
+    font-family: sans-serif;
+}
