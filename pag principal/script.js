@@ -1,7 +1,7 @@
 const produtos = [
-    { id: 1, nome: "Colar de Prata 925", preco: 120.00, imagem: "cproa.png" },
-    { id: 2, nome: "Pulseira de Prata 925", preco: 95.00, imagem: "cproa.png" },
-    { id: 3, nome: "Anel de Prata 925", preco: 80.00, imagem: "cproa.png" }
+    { id: 1, nome: "Colar de Prata 925", preco: 120.00, imagem: "logo coroa.png" },
+    { id: 2, nome: "Pulseira de Prata 925", preco: 95.00, imagem: "logo nome.png" },
+    { id: 3, nome: "Anel de Prata 925", preco: 80.00, imagem: "logo coroa.png" }
 ];
 
 const listaProdutos = document.getElementById("lista-produtos");
